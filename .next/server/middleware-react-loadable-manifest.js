@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"libs/filter.js -> isotope-layout\":{\"id\":\"libs/filter.js -> isotope-layout\",\"files\":[\"static/chunks/_app-pages-browser_node_modules_isotope-layout_js_isotope_js.js\"]}}"
